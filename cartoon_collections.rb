@@ -23,6 +23,6 @@ def find_the_cheese(array)
       nil
    end 
     i += 1
-  cheese   
   end
+  cheese
 end
