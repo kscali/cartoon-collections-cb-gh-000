@@ -19,10 +19,10 @@ def find_the_cheese(array)
   while i < array.length 
     if array[i] == cheese_types[i]
       cheese << array[i]
-      i += 1
-    else 
+      else 
       nil
     end 
+    
   cheese   
   end
 end
